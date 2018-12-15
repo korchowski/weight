@@ -1,8 +1,8 @@
 {
-  "weight": [
-    { "weight": "123" }
-  ],
-  "weightm": [
+  "weight": 
+    { "weight": "123" },
+  
+  "weightm": 
     { "weight": "-123" }
-  ]
+  
 }
